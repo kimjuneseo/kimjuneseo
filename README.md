@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjuneseo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuneseo&count_private=true)
+![](./profile-3d-contrib/profile-green-animate.svg)
