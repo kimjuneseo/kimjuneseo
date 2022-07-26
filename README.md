@@ -4,7 +4,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
