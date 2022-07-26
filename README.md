@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kimjuneseo&fontSize=120&animation=fadeIn
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kimjuneseo&fontSize=90&animation=fadeIn
 )
 
 <br>
