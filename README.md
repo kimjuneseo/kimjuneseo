@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kimjuneseo&fontSize=120&animation=fadeIn
+)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuneseo&hide_title=true&show_icons=true&disable_animations=true&theme=vue)
+![Juneseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuneseo&hide_title=true&show_icons=true&disable_animations=true&theme=vue)
 
 </div>
 
