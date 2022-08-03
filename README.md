@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JuneseoKim&fontSize=80&animation=fadeIn
 )
 
-<br>
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
